@@ -14,7 +14,6 @@ public class SimpleNumber {
             }
             System.out.println("Число " + number + " простое");
         }
-
     }
 }
 
